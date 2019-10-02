@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<orders xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="http://www.demandware.com/xml/impex/order/2006-10-31" xsi:schemaLocation="http://www.demandware.com/xml/impex/order/2006-10-31 schema.xsd" version="18.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <order order-no="+ m  n |)">
+    <order-date>1991-11-09T11:01:56.15</order-date>
+    <created-by>string</created-by>
+    <original-order-no>e!|</original-order-no>
+    <currency>USD</currency>
+    <customer-locale>string</customer-locale>
+    <taxation>net</taxation>
+    <source-code />
+    <affiliate-partner-name>string</affiliate-partner-name>
+    <affiliate-partner-id>string</affiliate-partner-id>
+    <invoice-no>string</invoice-no>
+    <customer>
+      <customer-name>string</customer-name>
+      <customer-email>string</customer-email>
+      <billing-address />
+    </customer>
+    <customer-order-reference>string</customer-order-reference>
+    <status>
+      <payment-status>PAID</payment-status>
+      <export-status>FAILED</export-status>
+    </status>
+    <business-type>B2B</business-type>
+    <channel-type>FacebookAds</channel-type>
+    <replace-code>string</replace-code>
+    <replace-description>string</replace-description>
+    <replacement-order-no>:f</replacement-order-no>
+    <replaced-order-no>oR</replaced-order-no>
+    <current-order-no>&gt; s</current-order-no>
+    <cancel-code>string</cancel-code>
+    <cancel-description>string</cancel-description>
+    <product-lineitems>
+      <product-lineitem>
+        <product-id>+_</product-id>
+        <quantity unit="string">-44649499999999.8</quantity>
+        <tax-rate>2279300000000.23</tax-rate>
+        <shipment-id>= ;</shipment-id>
+      </product-lineitem>
+      <product-lineitem>
+        <product-id>, K</product-id>
+        <quantity unit="string">-20522999999999.8</quantity>
+        <tax-rate>-45599499999999.8</tax-rate>
+        <shipment-id>? rH  Vv@ O  /  Tt</shipment-id>
+      </product-lineitem>
+    </product-lineitems>
+    <giftcertificate-lineitems>
+      <giftcertificate-lineitem />
+      <giftcertificate-lineitem />
+      <giftcertificate-lineitem />
+    </giftcertificate-lineitems>
+    <shipping-lineitems />
+    <shipments>
+      <shipment shipment-id="B" />
+      <shipment shipment-id=";" />
+      <shipment shipment-id="7 ] W" />
+      <shipment shipment-id="@    ?#" />
+    </shipments>
+    <totals>
+      <merchandize-total />
+      <shipping-total />
+    </totals>
+    <payments>
+      <payment />
+      <payment />
+      <payment />
+    </payments>
+    <remoteHost>string</remoteHost>
+    <notes>
+      <note>
+        <created-by>r   KxK  '!</created-by>
+        <subject>v</subject>
+      </note>
+      <note>
+        <created-by>P f)8   (i   ^gK    G  iI!PE  ka \ M_B!</created-by>
+        <subject>#</subject>
+      </note>
+      <note>
+        <created-by>Uf Fn</created-by>
+        <subject>r *r      r</subject>
+      </note>
+    </notes>
+    <external-order-no>string</external-order-no>
+    <external-order-status>string</external-order-status>
+    <external-order-text>string</external-order-text>
+    <place-date>1983-03-15T11:52:36.79</place-date>
+    <global-party-id>string</global-party-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="x" />
+      <custom-attribute attribute-id="&amp;    V       }H" />
+      <custom-attribute attribute-id="qk" />
+      <custom-attribute attribute-id="5 6B" />
+    </custom-attributes>
+  </order>
+  <order order-no="t K;" mode="delete">
+    <order-date>2017-03-02T11:00:48.61</order-date>
+    <created-by>string</created-by>
+    <original-order-no>Lx   [ P@  Y</original-order-no>
+    <currency>KEO</currency>
+    <customer-locale>string</customer-locale>
+    <taxation>gross</taxation>
+    <source-code>
+      <group-id>L</group-id>
+    </source-code>
+    <affiliate-partner-name>string</affiliate-partner-name>
+    <affiliate-partner-id>string</affiliate-partner-id>
+    <invoice-no>string</invoice-no>
+    <customer>
+      <guest>false</guest>
+      <customer-no>string</customer-no>
+      <customer-name>string</customer-name>
+      <billing-address />
+    </customer>
+    <customer-order-reference>string</customer-order-reference>
+    <status>
+      <payment-status>PAID</payment-status>
+    </status>
+    <business-type>B2C</business-type>
+    <channel-type>Twitter</channel-type>
+    <replace-code>string</replace-code>
+    <replace-description>string</replace-description>
+    <replacement-order-no>x</replacement-order-no>
+    <replaced-order-no>*&amp;</replaced-order-no>
+    <current-order-no>@%</current-order-no>
+    <cancel-code>string</cancel-code>
+    <cancel-description>string</cancel-description>
+    <product-lineitems>
+      <product-lineitem>
+        <product-id>f     @</product-id>
+        <quantity unit="string">42854800000000.2</quantity>
+        <tax-rate>8325200000000.24</tax-rate>
+        <shipment-id>2</shipment-id>
+      </product-lineitem>
+      <product-lineitem>
+        <product-id>~v</product-id>
+        <quantity unit="string">-26339399999999.8</quantity>
+        <tax-rate>548200000000.235</tax-rate>
+        <shipment-id>'           B  ?</shipment-id>
+      </product-lineitem>
+      <product-lineitem>
+        <product-id>Z</product-id>
+        <quantity unit="string">12474000000000.2</quantity>
+        <tax-rate>-43337799999999.8</tax-rate>
+        <shipment-id>'q j I</shipment-id>
+      </product-lineitem>
+    </product-lineitems>
+    <giftcertificate-lineitems>
+      <giftcertificate-lineitem />
+      <giftcertificate-lineitem />
+      <giftcertificate-lineitem />
+      <giftcertificate-lineitem />
+    </giftcertificate-lineitems>
+    <shipping-lineitems>
+      <shipping-lineitem>
+        <tax-rate>44115400000000.2</tax-rate>
+      </shipping-lineitem>
+      <shipping-lineitem>
+        <tax-rate>-19371299999999.8</tax-rate>
+      </shipping-lineitem>
+      <shipping-lineitem>
+        <tax-rate>-29256799999999.8</tax-rate>
+      </shipping-lineitem>
+    </shipping-lineitems>
+    <shipments>
+      <shipment shipment-id="F   x" />
+      <shipment shipment-id="h sC" />
+    </shipments>
+    <totals>
+      <merchandize-total />
+      <adjusted-merchandize-total />
+      <shipping-total />
+    </totals>
+    <payments />
+    <remoteHost>string</remoteHost>
+    <notes>
+      <note>
+        <created-by>8   l" |</created-by>
+        <subject>-</subject>
+      </note>
+      <note>
+        <created-by>B E</created-by>
+        <subject>_G(  E  ]m</subject>
+      </note>
+      <note>
+        <created-by>,</created-by>
+        <subject>G</subject>
+      </note>
+    </notes>
+    <external-order-no>string</external-order-no>
+    <external-order-status>string</external-order-status>
+    <external-order-text>string</external-order-text>
+    <place-date>2012-02-04T10:02:13.89</place-date>
+    <global-party-id>string</global-party-id>
+    <custom-attributes>
+      <custom-attribute attribute-id="{f z" />
+      <custom-attribute attribute-id="n Y  -" />
+      <custom-attribute attribute-id="/   4" />
+      <custom-attribute attribute-id="|@   &lt;" />
+    </custom-attributes>
+  </order>
+</orders>

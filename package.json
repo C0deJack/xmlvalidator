@@ -1,0 +1,14 @@
+{
+  "name": "xmlvalidator",
+  "version": "1.0.0",
+  "description": "XML Validator using XSD",
+  "main": "validator.js",
+  "scripts": {
+	"validate": "node ./validator.js"
+  },
+  "author": "Jack Wood-Pearce",
+  "license": "ISC",
+  "dependencies": {
+    "libxmljs": "^0.19.7"
+  }
+}
